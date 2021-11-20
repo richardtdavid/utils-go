@@ -1,1 +1,3 @@
 # utils-go
+
+Helper functions
